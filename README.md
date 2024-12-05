@@ -8,7 +8,7 @@ Aqui você encontrará alguns dos projetos que desenvolvi durante minha jornada 
 
 1. Códigos organizados e comentados.
 2. Projetos variados, desde jogos até simulações e ferramentas úteis.
-3. README.md individuais (em português, inglês e espanhol) para cada projeto, detalhando sua finalidade e funcionamento.
+3. README.md individuais (em português e inglês) para cada projeto, detalhando sua finalidade e funcionamento.
 
 Espero que estes projetos demonstrem meu compromisso em aprender e crescer na área de tecnologia. Fique à vontade para explorar, comentar e me dar sugestões.
 
@@ -23,7 +23,7 @@ Here you'll find some projects I developed during my programming studies. Each p
 
 1. Organized and well-commented code.
 2. A variety of projects, ranging from games to simulations and useful tools.
-3. Individual README.md files (in Portuguese, English, and Spanish) for each project, detailing their purpose and functionality.
+3. Individual README.md files (in Portuguese and English) for each project, detailing their purpose and functionality.
 I hope these projects showcase my dedication to learning and growing in the tech field. Feel free to explore, comment, and provide feedback.
 
 ### Contato/Contact:
